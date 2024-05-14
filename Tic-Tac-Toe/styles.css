@@ -7,6 +7,7 @@
     grid-template-columns: repeat(3, 100px);
     grid-gap: 5px;
     margin-bottom: 10px;
+    text-align:centre;
 }
 
 .cell {
